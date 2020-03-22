@@ -1,7 +1,10 @@
 ---
 title: "This is the first post"
-date: 2020-03-15T18:04:16+05:30
+date: 2020-03-19T18:04:16+05:30
 draft: false
+author: Nihal M
+tags: ["writing", "blog"]
+categories: ["writing"]
 ---
 
 When I told my friend hours before i started making this blog, She asked - "What's the first post gonna be about?". On any other day, this innocent question would've made me think, quite a bit, until the thought of the ideal, perfect 'first post' consumed all thought space until the wandering mind settled on the next shiny thing. 
@@ -47,4 +50,4 @@ My goal was to write more, and share learnings from work. A simple blog post is 
 If you're trying to push a car, you'll realize that it takes a lot more effort to get it moving. Once it starts, the effort required is much lower. This happens because the resistance to start moving (static friction) is higher than the resistance to keep it moving (dynamic friction). This mental model is useful for countering the perfectionist fallacy which prevented me from starting the blog.
 
 ## Continuing to roll 
-Today I managed to overcome the kinetic friction. The goal is to keepthe ball rolling, I hope to write more regularly. I will have to apply the same principles to ensure that I don't commit the same folly. Only time will tell.
+Today I managed to overcome the kinetic friction. The goal is to keep the ball rolling, I hope to write more regularly. I will have to apply the same principles to ensure that I don't commit the same folly. Only time will tell.
