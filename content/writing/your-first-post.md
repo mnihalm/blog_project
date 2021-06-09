@@ -1,7 +1,7 @@
 ---
 title: "This is the first post"
 date: 2020-03-19T18:04:16+05:30
-draft: false
+draft: true
 author: Nihal M
 tags: ["writing", "blog"]
 categories: ["writing"]
