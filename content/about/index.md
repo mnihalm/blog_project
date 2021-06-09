@@ -20,3 +20,6 @@ When I'm not working, I'm organizing the LessWrong/Slate Star Codex (SSC/ACX) me
 I'm interested in Drones, Technology, Open source and backyard astronomy. 
 
 I read a lot, gaze at stars a lot more, and write much less than I should. 
+
+</br>
+{{< propwash-signup >}}
