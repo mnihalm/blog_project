@@ -13,10 +13,10 @@ I'm Nihal.
 
 Welcome to my little corner of the internet. 
 
-I'm currently working on drones and solutions at [Skylark Drones](skylarkdrones.com). I think that drones are damn cool and will shape our future. If you wanna hear more about how exactly that might happen, I have a newsletter that's got you covered [here](https://propwash.substack.com/). Consider subscribing- I won't spam, and people say it's quite good. 
+I'm currently working on drones and solutions at [Skylark Drones](skylarkdrones.com). Drones are damn cool and will be everywhere in the future from delivering pizzas to moving you aroung the city. If you want to hear more about how exactly that might happen, I have a newsletter that's got you covered [here](https://www.getrevue.co/profile/propwash/). Consider subscribing- I won't spam, and people say it's quite good. 
 
-When I'm not working, I'm organizing the LessWrong/SSC(ACX) meetups in [Bangalore](https://www.lesswrong.com/groups/i5vLw9xnG9iwXNQZZ). 
+When I'm not working, I'm organizing the LessWrong/Slate Star Codex (SSC/ACX) meetups in [Bangalore](https://www.lesswrong.com/groups/i5vLw9xnG9iwXNQZZ). 
 
-I'm interested in Drones, Technology, Open source, Silicon valley culture, startups, and business. 
+I'm interested in Drones, Technology, Open source and backyard astronomy. 
 
-I read a lot, gaze at stars a lot, and write (sometimes). 
+I read a lot, gaze at stars a lot more, and write (sometimes). 
