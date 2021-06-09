@@ -30,7 +30,7 @@ disableLanguages        = []
   hideEmptyStats        = false
 
   [params.meta]
-    description         = "This That and Everything. Nihal's Personal Site. Writings are my own, and don't tend to make a lot of sense, except when they do. Can cover everything, and nothing. Mostly harmless, and rabbits."
+    description         = "Nihal's personal site. Writings are my own, and don't tend to make a lot of sense, except when they do."
     author              = "Nihal M"
     favicon             = true
     svg                 = true
@@ -47,20 +47,20 @@ disableLanguages        = []
 
   [params.intro]
     header                = "This That and EveryThing"
-    paragraph             = "Nihal's Personal Site. Writings are my own, and don't tend to make a lot of sense, except when they do. Can cover everything, and nothing. Mostly harmless"
+    paragraph             = "Nihal's personal site. Writings are my own, and don't tend to make a lot of sense, except when they do."
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = false
     alwaysOnHomepage      = true
 
     [params.intro.pic]
-      src                 = "img/main/lepus.jpg"
+      src                 = "img/main/N.png"
       shape               = "circle"
       width               = ""
       alt                 = "This That and EveryThing"
 
   [params.sidebar]
-    about               = "Mostly Harmless writing on this, that and everything."
+    about               = "Nihal's personal site. Mostly harmless."
     postAmount          = 5
     categories          = false
     categoriesByCount   = true
@@ -104,6 +104,11 @@ disableLanguages        = []
     pre               = "<i class='far fa-id-card'></i>"
     weight            = 2
 
+  [[menu.main]]
+    name              = "Propwash"
+    url               = "https://www.getrevue.co/profile/propwash"
+    pre               = "<i class='fas fa-wind'></i>"
+    weight            = 2
 
 [Languages]
 
